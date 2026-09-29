@@ -1,0 +1,17 @@
+[
+  { "id": "lillian-and-jane", "file": "Lillian_&_Jane.jpg", "title": "Lillian & Jane", "category": "Digital", "medium": "Digital illustration", "alt": "Lillian and Jane sitting together in long grass, illustrated in soft pinks, reds, and blue." },
+  { "id": "lambs", "file": "lambs.png", "title": "Lambs", "category": "Sketchbook", "medium": "Pencil on paper", "alt": "Three delicately shaded pencil studies of lambs surrounded by winding, thorny branches." },
+  { "id": "jane", "file": "Jane.jpg", "title": "Jane", "category": "Digital", "medium": "Digital illustration", "alt": "A dark-haired character in a red and white T-shirt, sitting with her knees drawn up in the grass." },
+  { "id": "lou", "file": "louGIF.gif", "title": "Lou", "category": "Motion", "medium": "Frame-by-frame animation", "alt": "A hand-drawn animated character study of Lou." },
+  { "id": "knife-girl", "file": "knifegirl.jpg", "title": "Knife girl", "category": "Sketchbook", "medium": "Pencil on paper", "alt": "A pencil drawing of a wide-eyed girl in a ruffled dress, holding an ornate dagger." },
+  { "id": "lillian", "file": "Lillian.jpg", "title": "Lillian", "category": "Digital", "medium": "Digital illustration", "alt": "A pink-haired character in a pink top and red skirt, reclining in the grass." },
+  { "id": "drunk", "file": "drunk.jpg", "title": "Drunk", "category": "Digital", "medium": "Digital comic", "alt": "A four-panel comic featuring an expressive brown-haired animal character at a bar." },
+  { "id": "portrait-studies", "file": "pintrst.webp", "title": "Portrait studies", "category": "Sketchbook", "medium": "Pencil on paper", "alt": "An open sketchbook with detailed pencil portraits, studies of eyes and lips, and a small animal character." },
+  { "id": "creature-studies", "file": "furryshit.png", "title": "Creature studies", "category": "Sketchbook", "medium": "Pencil on paper", "alt": "A sketchbook spread filled with expressive, anthropomorphic creature designs and faces." },
+  { "id": "bleeding-out", "file": "bleeding_out.jpg", "title": "Bleeding out", "category": "Sketchbook", "medium": "Pencil on paper", "alt": "A closely framed graphite portrait of a downcast, long-haired character." },
+  { "id": "horse-is-here", "file": "horseishere.png", "title": "Horse is here", "category": "Sketchbook", "medium": "Pencil on paper", "alt": "An eerie pencil study of a horse-like face with round eyes and exposed teeth." },
+  { "id": "behave", "file": "gimp.png", "title": "Behave", "category": "Sketchbook", "medium": "Pencil on paper", "alt": "A sketchbook page with a masked figure, a uniformed character saying behave, and a small lamb study." },
+  { "id": "soldier", "file": "soldier.webp", "title": "Soldier", "category": "Sketchbook", "medium": "Pencil on paper", "alt": "A graphite portrait of a soldier in a helmet with a bandage over one eye and a cigarette." },
+  { "id": "scary-face", "file": "scaryface.webp", "title": "Scary face", "category": "Sketchbook", "medium": "Pencil on paper", "alt": "A shaded pencil drawing of a distorted face with wide eyes and an unsettling grin." },
+  { "id": "sona-studies", "file": "sonastuff.png", "title": "Sona studies", "category": "Sketchbook", "medium": "Pencil on paper", "alt": "Loose pencil character studies of a long-haired, dog-like persona in an open sketchbook." }
+]
