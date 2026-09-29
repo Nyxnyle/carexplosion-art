@@ -1,6 +1,6 @@
 # Carexplosion — Art & other things
 
-A personal SvelteKit 5 art portfolio built for GitHub Pages. It includes 15 artworks from the artist's collection, a responsive gallery, category filters, an original-resolution viewer with keyboard navigation and zoom, animation playback controls, and a permanent page for each artwork.
+A personal art portfolio built with SvelteKit and Svelte 5 for GitHub Pages. It includes 15 artworks from the artist's collection, a responsive gallery, category filters, an original-resolution viewer with keyboard navigation and zoom, animation playback controls, and a permanent page for each artwork.
 
 ## Run locally
 
